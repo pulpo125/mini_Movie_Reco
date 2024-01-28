@@ -84,9 +84,4 @@ with st.sidebar:
         st.empty()
 
 
-# Main) 깃허브 링크
-'''
-    [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/pulpo125/habang/tree/develop/movie_pj) 
-
-'''
 st.markdown("<br>",unsafe_allow_html=True)
